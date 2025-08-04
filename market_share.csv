@@ -1,0 +1,196 @@
+Year,Country,SharePercent
+2010,China,1.0
+2011,China,3.4000000000000004
+2012,China,7.3
+2013,China,9.5
+2014,China,40.0
+2015,China,100.0
+2016,China,150.0
+2017,China,240.0
+2018,China,470.0
+2019,China,500.0
+2020,China,570.0
+2021,China,1500.0
+2022,China,2900.0
+2023,China,3800.0
+2024,China,4800.0
+2010,Europe,1.2
+2011,Europe,7.3999999999999995
+2012,Europe,20.0
+2013,Europe,43.0
+2014,Europe,68.0
+2015,Europe,100.0
+2016,Europe,140.0
+2017,Europe,180.0
+2018,Europe,229.99999999999997
+2019,Europe,330.0
+2020,Europe,1000.0
+2021,Europe,1700.0
+2022,Europe,2100.0
+2023,Europe,2200.0
+2024,Europe,2200.0
+2010,France,1.2
+2011,France,12.0
+2012,France,33.0
+2013,France,53.0
+2014,France,69.0
+2015,France,120.0
+2016,France,140.0
+2017,France,170.0
+2018,France,200.0
+2019,France,270.0
+2020,France,1100.0
+2021,France,1700.0
+2022,France,2000.0
+2023,France,2500.0
+2024,France,2400.0
+2010,Germany,0.49
+2011,Germany,5.2
+2012,Germany,11.0
+2013,Germany,23.0
+2014,Germany,45.0
+2015,Germany,73.0
+2016,Germany,74.0
+2017,Germany,160.0
+2018,Germany,200.0
+2019,Germany,300.0
+2020,Germany,1400.0
+2021,Germany,2600.0
+2022,Germany,3100.0
+2023,Germany,2400.0
+2024,Germany,1900.0
+2010,India,2.1
+2011,India,5.6000000000000005
+2012,India,0.72
+2013,India,1.6
+2014,India,3.8
+2015,India,1.7000000000000002
+2016,India,2.6
+2017,India,3.1
+2018,India,3.0
+2019,India,2.4
+2020,India,12.0
+2021,India,41.0
+2022,India,140.0
+2023,India,210.0
+2024,India,210.0
+2010,Japan,5.800000000000001
+2011,Japan,31.0
+2012,Japan,53.0
+2013,Japan,63.0
+2014,Japan,69.0
+2015,Japan,57.99999999999999
+2016,Japan,60.0
+2017,Japan,120.0
+2018,Japan,110.00000000000001
+2019,Japan,90.0
+2020,Japan,77.0
+2021,Japan,120.0
+2022,Japan,280.0
+2023,Japan,350.0
+2024,Japan,280.0
+2010,Netherlands,2.5
+2011,Netherlands,16.0
+2012,Netherlands,100.0
+2013,Netherlands,550.0
+2014,Netherlands,390.0
+2015,Netherlands,350.0
+2016,Netherlands,1100.0
+2017,Netherlands,640.0
+2018,Netherlands,620.0
+2019,Netherlands,1500.0
+2020,Netherlands,2500.0
+2021,Netherlands,2900.0
+2022,Netherlands,3500.0
+2023,Netherlands,4400.0
+2024,Netherlands,4800.0
+2010,Norway,28.000000000000004
+2011,Norway,140.0
+2012,Norway,310.0
+2013,Norway,580.0
+2014,Norway,1500.0
+2015,Norway,2200.0
+2016,Norway,2900.0
+2017,Norway,3900.0
+2018,Norway,4900.0
+2019,Norway,5600.0
+2020,Norway,7500.0
+2021,Norway,8600.0
+2022,Norway,8900.0
+2023,Norway,9000.0
+2024,Norway,9200.0
+2010,South Korea,0.5
+2011,South Korea,2.3
+2012,South Korea,4.1000000000000005
+2013,South Korea,4.8
+2014,South Korea,9.2
+2015,South Korea,22.0
+2016,South Korea,33.0
+2017,South Korea,96.0
+2018,South Korea,390.0
+2019,South Korea,240.0
+2020,South Korea,250.0
+2021,South Korea,630.0
+2022,South Korea,960.0
+2023,South Korea,869.9999999999999
+2024,South Korea,919.9999999999999
+2010,Sweden,0.13
+2011,Sweden,5.4
+2012,Sweden,31.0
+2013,Sweden,53.0
+2014,Sweden,140.0
+2015,Sweden,240.0
+2016,Sweden,340.0
+2017,Sweden,509.99999999999994
+2018,Sweden,760.0
+2019,Sweden,1100.0
+2020,Sweden,3200.0
+2021,Sweden,4300.0
+2022,Sweden,5400.0
+2023,Sweden,6000.0
+2024,Sweden,5800.0
+2010,United Kingdom,1.3
+2011,United Kingdom,6.2
+2012,United Kingdom,13.0
+2013,United Kingdom,16.0
+2014,United Kingdom,59.0
+2015,United Kingdom,110.00000000000001
+2016,United Kingdom,140.0
+2017,United Kingdom,190.0
+2018,United Kingdom,260.0
+2019,United Kingdom,330.0
+2020,United Kingdom,1100.0
+2021,United Kingdom,1900.0
+2022,United Kingdom,2300.0
+2023,United Kingdom,2400.0
+2024,United Kingdom,2800.0
+2010,United States,1.2
+2011,United States,15.0
+2012,United States,42.0
+2013,United States,71.0
+2014,United States,77.0
+2015,United States,70.0
+2016,United States,99.0
+2017,United States,130.0
+2018,United States,229.99999999999997
+2019,United States,210.0
+2020,United States,229.99999999999997
+2021,United States,470.0
+2022,United States,740.0
+2023,United States,950.0
+2024,United States,1000.0
+2010,World,1.2
+2011,World,7.3
+2012,World,18.0
+2013,World,28.999999999999996
+2014,World,44.0
+2015,World,68.0
+2016,World,96.0
+2017,World,150.0
+2018,World,250.0
+2019,World,270.0
+2020,World,440.00000000000006
+2021,World,930.0000000000001
+2022,World,1500.0
+2023,World,1800.0
+2024,World,2200.0
